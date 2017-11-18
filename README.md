@@ -2,4 +2,4 @@
 Calculator ROI PoW DASH mining
 
 ## Feedback:
-- Contact: 
+- Contact:  
